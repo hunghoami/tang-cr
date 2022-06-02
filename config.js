@@ -4,13 +4,13 @@ const CONFIG = {
     btnIntro: 'oke',
     title: 'Cậu yêu tớ có phải không 😙',
     desc: 'Cậu không trả lời hoặc thoát ra, tức là cậu là vợ tớ đó nha :> ',
-    btnYes: 'yêu ơi là iuuu <33',
-    btnNo: 'cậu mơ à :333',
-    question:'Nói cho tới lý do vì sao cậu yêu tớ đii <3',
+    btnYes: 'Không thích',
+    btnNo: 'Ừ',
+    question:'Nói cho tới lý do đii',
     btnReply: 'Gửi cho tớ <3',
-    reply: 'Tại vì cậu đẹp trai hihi <33333333',
-    mess: 'Tớ biết mà 🥰. Love you 300.000 😘😘',
+    reply: 'Tại vì không thích',
+    mess: 'Tớ biết mà',
     messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: https://m.me/pvh.03
 }
